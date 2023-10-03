@@ -27,7 +27,7 @@ I'm **Tommaso Giorgi**, a **MSc  Computer Engineering [Cybersecurity]** student 
 
 ### Technologies Used & Frameworks
 
-![Technologies](https://skillicons.dev/icons?i=linux,git,github,latex,mongodb&theme=light)
+![Technologies](https://skillicons.dev/icons?i=linux,git,github,latex&theme=light)
 <span style="margin: 0px 10px"><img height="48" src="./android_icon.jpg" alt="Android" title="Android"/></span>
 ![Technologies](https://skillicons.dev/icons?i=matlab,mysql,mongodb&theme=light)
 ![Technologies](https://skillicons.dev/icons?i=idea,maven&theme=light)
