@@ -12,7 +12,7 @@
 
 <div align="center">
 
-I'm **Tommaso Giorgi**, a **MSc  Computer Engineering [Cybersecurity]** student at the University of Pisa.
+I'm **Tommaso Giorgi**, a **Software Engineer** currently working as an Embedded Software Engineer in the **Space Payload Area**🚀🛰️
 
 </div>
 <hr>
