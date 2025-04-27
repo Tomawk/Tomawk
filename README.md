@@ -35,7 +35,7 @@ I'm **Tommaso Giorgi**, a **Software Engineer** currently working as an Embedded
     src="./images/mplab-x-ide-logo.png" 
     alt="MPLABX" 
     title="MPLAB" 
-    style="height: 48px; object-fit: cover; border-radius: 50px;"
+    style="height: 48px; width: 48px;"
   />
 </span>
 ![Technologies](https://skillicons.dev/icons?i=idea,maven&theme=light)
