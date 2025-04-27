@@ -30,7 +30,14 @@ I'm **Tommaso Giorgi**, a **Software Engineer** currently working as an Embedded
 ![Technologies](https://skillicons.dev/icons?i=linux,git,github,latex&theme=light)
 <span style="margin: 0px 10px"><img height="48" src="./images/android_icon.jpg" alt="Android" title="Android"/></span>
 ![Technologies](https://skillicons.dev/icons?i=matlab,mysql,mongodb&theme=light)
-<span style="margin: 0px 10px"><img height="48" width="48" src="./images/mplab-x-ide-logo.png" alt="MPLABX" title="MPLAB"/></span>
+<span style="margin: 0px 10px">
+  <img 
+    src="./images/mplab-x-ide-logo.png" 
+    alt="MPLABX" 
+    title="MPLAB" 
+    style="height: 48px; width: 48px; object-fit: cover; border-radius: 8px;"
+  />
+</span>
 ![Technologies](https://skillicons.dev/icons?i=idea,maven&theme=light)
 
 <hr> 
